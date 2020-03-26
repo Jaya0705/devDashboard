@@ -1,0 +1,16 @@
+[ {
+    "kind": "Digitization", "share": 0.175 , "color" : "skyblue"
+}, {
+    "kind": "Fresh 2PI", "share": 0.238, "color" :"purple"
+}, {
+    "kind": "BSA", "share": 0.118, "color" : "pink"
+},  {
+    "kind": "GWFM", "share": 0.118, "color" : "blue"
+}, {
+    "kind": "GSS", "share": 0.118, "color" : "grey"
+}, {
+    "kind": "SIT", "share": 0.118, "color" : "orange"
+}, {
+    "kind": "Donation Tracking", "share": 0.118, "color" : "yellow"
+}
+ ]
