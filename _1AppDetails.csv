@@ -1,0 +1,7 @@
+App	User Story	Description	Technology	Story points	Status(Analysis/Build/Deploy)	QA Defects	Prod Defects Count	Worked by	Peer Review Done(Y/N)	Peer Review Done by	R/A/G	POC
+Digitization	User Story# IP-6168	Change in ISAM sync schedule	Unix shell scripting	7	Build	0	0	Guru	Y	Thiru	R	xyz
+Digitization	User Story#RM-SS5342	Develop a new screen on the Receiving app to receive dex	React/Native	12	Analysis	NA	NA	Manoj			A	abc
+Digitization	User Story#IP-6789	Make chages to sbp013f1 to block ASN Receiving	Cobol	8	Build	NA	NA	Manoj			G	xxx
+Fresh2PI	User Story# IP-6168	Change in ISAM sync schedule	Unix shell scripting	7	Build	0	0	Guru	Y	Thiru	R	xyz
+Fresh2PI	User Story#RM-SS5342	Develop a new screen on the Receiving app to receive dex	React/Native	12	Analysis	NA	NA	Manoj			A	abc
+Fresh2PI	User Story#IP-6789	Make chages to sbp013f1 to block ASN Receiving	Cobol	8	Build	NA	NA	Manoj			G	yyy
