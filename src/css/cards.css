@@ -1,0 +1,243 @@
+.card {
+    box-shadow : 0 2px 4px 0 rgba(0, 0, 0, 0.6);
+    transition : 0.2s;
+    background-color: white;
+    width : 20%;
+    height: 130px; 
+    float: left;
+    position : absolute;
+    z-index: 1;
+    top :0;
+    margin-top : 190px;
+    margin-left: 400px;
+    margin-bottom : 50px;
+    text-decoration: none;
+}
+
+.card-h1{
+    text-align: right;
+    padding-top: 25px;
+    padding-left : 150px;
+    padding-right : 10px;
+    font-size: 20px;
+    font-family : "Trebuchet MS";
+    color : black;
+    
+}
+
+.card:hover{
+    box-shadow: 0 4px 8px 0 #45d4ff;
+    background-color: rgb(255, 255, 255);
+    color: rgb(254, 248, 255);
+}
+
+.container{
+    padding-inline-start : 0px;
+    display: flex;
+    flex-basis: auto
+}
+
+.card1 {
+    box-shadow : 0 2px 4px 0 rgba(0, 0, 0, 0.6);
+    transition : 0.2s;
+    background-color: white;
+    width : 20%;
+    height: 130px; 
+    /* height: 200px; */
+    float: left;
+    position : absolute;
+    z-index: 1;
+    top :0;
+    margin-top : 190px;
+    margin-left: 700px;
+    margin-bottom : 50px;
+    text-decoration: none;
+}
+
+.card1-h1{
+    text-align: right;
+    padding-top: 5px;
+    padding-left : 150px;
+    padding-right : 10px;
+    font-size: 20px;
+    font-family : "Trebuchet MS";
+    color : black;
+    
+}
+
+.card1:hover{
+    box-shadow: 0 4px 8px 0 #45d4ff;
+    background-color: rgb(255, 255, 255);
+    color: rgb(254, 248, 255);
+}
+
+.card2 {
+    box-shadow : 0 2px 4px 0 rgba(0, 0, 0, 0.6);
+    transition : 0.2s;
+    background-color: white;
+    width : 20%;
+    /* height: 180px;  */
+    height: 130px;
+    float: left;
+    position : absolute;
+    z-index: 1;
+    top :0;
+    margin-top : 190px;
+    margin-left: 1000px;
+    margin-bottom : 50px;
+    text-decoration: none;
+}
+
+.card2-h1{
+    text-align: right;
+    padding-top: 10px;
+    padding-left : 150px;
+    padding-right : 10px;
+    font-size: 20px;
+    font-family : "Trebuchet MS";
+    color : black;
+    
+}
+
+.card2:hover{
+    box-shadow: 0 4px 8px 0 #45d4ff;
+    background-color: rgb(255, 255, 255);
+    color: rgb(254, 248, 255);
+}
+
+.card3 {
+    box-shadow : 0 2px 4px 0 rgba(0, 0, 0, 0.6);
+    transition : 0.2s;
+    background-color: white;
+    width : 20%;
+    /* height: 180px;  */
+    height : 130px;
+    float: left;
+    position : absolute;
+    z-index: 1;
+    top :0;
+    margin-top : 340px;
+    margin-left: 400px;
+    margin-bottom : 50px;
+    text-decoration: none;
+}
+
+.card3-h1{
+    text-align: right;
+    padding-top: 30px;
+    padding-left : 150px;
+    padding-right : 10px;
+    font-size: 20px;
+    font-family : "Trebuchet MS";
+    color : black;
+    
+}
+
+.card3:hover{
+    box-shadow: 0 2px 6px 0 #45d4ff;
+    background-color: rgb(255, 255, 255);
+    color: rgb(254, 248, 255);
+}
+
+.card4 {
+    box-shadow : 0 2px 4px 0 rgba(0, 0, 0, 0.6);
+    transition : 0.2s;
+    background-color: white;
+    width : 20%;
+    height: 130px; 
+    float: left;
+    position : absolute;
+    z-index: 1;
+    top :0;
+    /* margin-top : 420px; */
+    margin-top : 340px;
+    margin-left: 700px;
+    margin-bottom : 50px;
+    text-decoration: none;
+}
+
+.card4-h1{
+    text-align: right;
+    padding-top: 10px;
+    padding-left : 150px;
+    padding-right : 10px;
+    font-size: 20px;
+    font-family : "Trebuchet MS";
+    color : black;
+    
+}
+
+.card4:hover{
+    box-shadow: 0 2px 6px 0 #45d4ff;
+    background-color: rgb(255, 255, 255);
+    color: rgb(254, 248, 255);
+}
+
+.card5 {
+    box-shadow : 0 2px 4px 0 rgba(0, 0, 0, 0.6);
+    transition : 0.2s;
+    background-color: white;
+    width : 20%;
+    height: 130px; 
+    float: left;
+    position : absolute;
+    z-index: 1;
+    top :0;
+    margin-top :340px;
+    /* margin-top : 400px; */
+    margin-left: 1000px;
+    margin-bottom : 50px;
+    text-decoration: none;
+}
+
+.card5-h1{
+    text-align: right;
+    padding-top: 30px;
+    padding-left : 130px;
+    padding-right : 10px;
+    font-size: 20px;
+    font-family : "Trebuchet MS";
+    color : black;
+    
+}
+
+.card5:hover{
+    box-shadow: 0 2px 6px 0 #45d4ff;
+    background-color: rgb(255, 255, 255);
+    color: rgb(254, 248, 255);
+}
+
+.card6 {
+    box-shadow : 0 2px 4px 0 rgba(0, 0, 0, 0.6);
+    transition : 0.2s;
+    background-color: white;
+    width : 20%;
+    /* height: 180px;  */
+    height : 130px;
+    float: left;
+    position : absolute;
+    z-index: 1;
+    top :0;
+    margin-top : 490px;
+    margin-left: 400px;
+    margin-bottom : 50px;
+    text-decoration: none;
+}
+
+.card6-h1{
+    text-align: right;
+    padding-top: 30px;
+    padding-left : 150px;
+    padding-right : 10px;
+    font-size: 20px;
+    font-family : "Trebuchet MS";
+    color : black;
+    
+}
+
+.card6:hover{
+    box-shadow: 0 2px 6px 0 #45d4ff;
+    background-color: rgb(255, 255, 255);
+    color: rgb(254, 248, 255);
+}
+

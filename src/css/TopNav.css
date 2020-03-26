@@ -1,0 +1,183 @@
+.sidenav {
+    height: 550px;
+    width: 200px;
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: 10px;
+    background-color: rgb(255, 255, 255);
+    overflow-x: hidden;
+    padding-top: 20px;
+    padding-bottom : 20px;
+    margin-top : 190px;
+    box-shadow : 0 4px 8px 0 rgba(0, 0, 0, 0.6);
+  }
+  
+  /* Page content */
+  .main {
+    margin-top: 250px; /* Same as the width of the sidenav */
+  }
+  
+  .App-logo{
+    padding-bottom : 0px;
+    margin-top : 0px;
+    height: 58px;
+    width: 130px;
+    /* margin: auto; */
+    float : left;
+    pointer-events: none;
+    padding-top :0px; 
+  }
+  
+  .linkstyle{
+      color : rgb(0, 0, 0);
+      font-family : Trebuchet MS;
+      font-size : 17px;
+      text-decoration: none;
+      padding-top : 10px;
+      padding-bottom : 5px;
+      padding-left : 10px;
+      
+  }
+  
+  .linkstyle b:hover {
+    background-color: rgb(205, 11, 253);
+    color: white;
+    transition : 0.2s;
+    padding-left : 10px;
+    padding-right : 10px;
+  }
+  
+  
+  /* .linkstyle b:active {
+    background-color: rgb(129, 219, 255);
+    color:  rgb(255, 255, 255);
+  } */
+
+  .topnav {
+    height: 10px;
+    width: 1365px;
+    position: absolute;
+    background-color: rgb(0, 0, 0);
+    overflow-x: hidden;
+    padding-top: 20px;
+    padding-bottom : 20px;
+    margin-top : 0px;
+    /* box-shadow : 0 4px 8px 0 rgba(0, 0, 0, 0.6); */
+  }
+
+.topsecondnav {
+    height: 80px;
+    width: 100%;
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: 0px;
+    background-color: rgb(255, 255, 255);
+    overflow-x: hidden;
+    padding-top: 20px;
+    padding-bottom : 20px;
+    margin-top : 50px;
+    box-shadow : 0 4px 5px 0 rgba(189, 188, 188, 0.6);
+  }
+
+/* .header {
+  color : "black";
+  padding-left : "100px";
+  font-family : "Trebuchet MS";
+}
+
+.header b:hover {
+    background-color: rgb(129, 219, 255); 
+    color: rgb(11, 245, 253);
+    transition : 0.2s;
+  } */
+
+
+.link{
+  float: right;
+  color: #030303;
+  /* text-align: center; */
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 16px;
+  font-family : Trebuchet MS;
+}
+
+
+.link b:hover {
+  /* background-color: rgb(70, 255, 255); */
+  color: rgb(205, 11, 253);
+}
+
+
+
+.link b:active{
+  /* background-color: rgb(247, 88, 234); */
+  color: rgb(11, 245, 253);
+}
+
+bottomnav {
+  background-color: rgb(255, 255, 255);
+  overflow: hidden; 
+  margin-top : 20px;
+}
+
+
+.bottomnav a {
+  float: center;
+  background-color: rgb(205, 11, 253);
+  color: #fffefe;
+  text-align: center;
+  padding :2px 100px;
+  /* padding : 180px; */
+  text-decoration: honeydew;
+  font-size: 18px;
+  text-transform: normal;
+  letter-spacing: normal;
+  font-family : Trebuchet MS;
+  margin-top : 150px;
+  font-size : 17px;
+}
+
+
+.bottomnav a:hover {
+  background-color: rgb(225, 168, 240);
+  color: rgb(255, 255, 255);
+  transition : 0.5s;
+}
+
+
+.bottomnav a.active {
+  background-color: rgb(225, 168, 240);
+  color:  rgb(3, 3, 3);
+}
+
+
+.tab{
+  float: left;
+  color: #030303;
+  text-align: center;
+  padding: 14px 10px;
+  text-decoration: none;
+  font-size: 16px;
+  font-family : Trebuchet MS;
+}
+
+
+.tab b:hover {
+  /* background-color: rgb(70, 255, 255); */
+  color: rgb(205, 11, 253);
+}
+
+
+
+.tab b:active{
+  /* background-color: rgb(247, 88, 234); */
+  color: rgb(205, 11, 253);
+}
+
+.center {
+ padding-left : 500px;
+ justify-content: center;
+}

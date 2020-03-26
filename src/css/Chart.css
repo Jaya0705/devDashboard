@@ -1,0 +1,32 @@
+.one{
+    color : skyblue;
+}
+
+.two{
+    color : peachpuff;
+}
+
+.three{
+    color : lavenderblush;
+}
+
+.chartOne {
+    padding-left : 400px;
+    padding-top : 200px;
+    font-size : 15px;
+  
+}
+
+.chartTwo {
+    padding-left : 800px;
+    /* margin-top : 0;
+    display : inline-block; */
+    padding-top : -200px;
+    font-size : 15px;
+  
+}
+
+.chart b{
+   padding-top : 150px;
+   text-align: center;
+}
